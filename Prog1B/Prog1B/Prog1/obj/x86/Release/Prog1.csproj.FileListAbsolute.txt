@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Prog1A124\Prog1A\Prog1\bin\Release\Prog1.exe
+C:\Users\Admin\Desktop\Prog1A124\Prog1A\Prog1\bin\Release\Prog1.pdb
+C:\Users\Admin\Desktop\Prog1A124\Prog1A\Prog1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Prog1A124\Prog1A\Prog1\obj\x86\Release\Prog1.exe
+C:\Users\Admin\Desktop\Prog1A124\Prog1A\Prog1\obj\x86\Release\Prog1.pdb
+C:\Users\Admin\Desktop\Prog1B\Prog1B\Prog1\obj\x86\Release\Prog1.exe
+C:\Users\Admin\Desktop\Prog1B\Prog1B\Prog1\obj\x86\Release\Prog1.pdb

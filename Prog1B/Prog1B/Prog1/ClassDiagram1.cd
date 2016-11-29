@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LibraryItems.LibraryBook">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEgAAAAEAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LibraryBook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryItems.LibraryItem">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAABEAECAAAAAAAASQQAAAAAAACAAAAAHI=</HashCode>
+      <FileName>LibraryItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryItems.LibraryJournal">
+    <Position X="7.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAEQAAAAEAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LibraryJournal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryItems.LibraryMagazine">
+    <Position X="9.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAEAAAAAEAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LibraryMagazine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryItems.LibraryMediaItem">
+    <Position X="4" Y="5.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="LibraryItems.LibraryMediaItem.MediaType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>LibraryMediaItem.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAEAAAAAAAAAIAAAAAAAAAAQAAEAAA=</HashCode>
+      <FileName>LibraryMediaItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryItems.LibraryMovie">
+    <Position X="2.75" Y="9.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="LibraryItems.LibraryMovie.MPAARatings" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>LibraryMovie.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAQAAIAAEAAAAAAABAAAQAAEAAAAAACAEAgA=</HashCode>
+      <FileName>LibraryMovie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryItems.LibraryMusic">
+    <Position X="5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAIgAEAAAAAEAAAIAQAgAAAAAAAAAEAAA=</HashCode>
+      <FileName>LibraryMusic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryItems.LibraryPeriodical">
+    <Position X="8.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAMAEAABAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>LibraryPeriodical.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
